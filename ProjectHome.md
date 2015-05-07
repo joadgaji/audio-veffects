@@ -1,0 +1,1 @@
+This project consist of displaying visual effects that appeared according to the rithm and the notes of the
